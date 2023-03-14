@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/d/Programing/BOT's_Python/google form automation/tele_bot/main.py", line 2, in <module>
+    from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+ModuleNotFoundError: No module named 'telegram'
